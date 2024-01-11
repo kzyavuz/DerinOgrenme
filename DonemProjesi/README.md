@@ -128,8 +128,8 @@ Bu projeye katkıda bulunmak isterseniz, aşağıdaki adımları takip edebilirs
 
 <div align=center>
   
-[<img  alt="Github" src="https://img.shields.io/badge/GitHub-000000.svg?&style=for-the-badge&logo=Github&logoColor=white"/>](https://github.com/dystaSatria) 
-[<img  alt="Github" src="https://img.shields.io/badge/Instagram-000000.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>](https://www.instagram.com/dyzzta/)
+[<img  alt="Github" src="https://img.shields.io/badge/GitHub-000000.svg?&style=for-the-badge&logo=Github&logoColor=white"/>](https://github.com/kzyavuz) 
+[<img  alt="Github" src="https://img.shields.io/badge/Instagram-000000.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>]()
 [<img  alt="Github" src="https://img.shields.io/badge/LinkedIn-000000.svg?&style=for-the-badge&logo=linkedIn&logoColor=white"/>]()
 
 </div>
